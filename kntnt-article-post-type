@@ -33,8 +33,8 @@ add_action('init', function () {
         // 'title', 'editor', 'comments', 'revisions', 'trackbacks',
         // 'author', 'excerpt', 'page-attributes', 'thumbnail',
         // 'custom-fields', and 'post-formats'. Additionally, the
-        // 'revisions' feature diArticletes whether the post type will store
-        // revisions, and the 'comments' feature diArticletes whether the
+        // 'revisions' feature dictates whether the post type will store
+        // revisions, and the 'comments' feature dictates whether the
         // comments count will show on the edit screen.
         'supports' => [
             'title',
